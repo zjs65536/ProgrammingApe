@@ -1,0 +1,219 @@
+<Map>
+ <!-- Block Data -->
+    <BlockData>
+        <Type>Stone</Type>
+        <xPosition>0</xPosition>
+        <yPosition>390</yPosition>
+        <xCount>140</xCount>
+        <yCount>3</yCount>
+    </BlockData>
+
+     <BlockData>
+        <Type>Stone</Type>
+        <xPosition>0</xPosition>
+        <yPosition>300</yPosition>
+        <xCount>10</xCount>
+        <yCount>3</yCount>
+    </BlockData>
+
+    <BlockData>
+        <Type>Wood</Type>
+        <xPosition>240</xPosition>
+        <yPosition>270</yPosition>
+        <xCount>1</xCount>
+        <yCount>1</yCount>
+    </BlockData>
+
+    <BlockData>
+        <Type>Stone</Type>
+        <xPosition>510</xPosition>
+        <yPosition>300</yPosition>
+        <xCount>3</xCount>
+        <yCount>1</yCount>
+    </BlockData>
+
+    <BlockData>
+        <Type>Stone</Type>
+        <xPosition>660</xPosition>
+        <yPosition>240</yPosition>
+        <xCount>5</xCount>
+        <yCount>1</yCount>
+    </BlockData>
+
+    <BlockData>
+        <Type>Stone</Type>
+        <xPosition>870</xPosition>
+        <yPosition>300</yPosition>
+        <xCount>3</xCount>
+        <yCount>1</yCount>
+    </BlockData>
+
+    <BlockData>
+        <Type>Stone</Type>
+        <xPosition>1020</xPosition>
+        <yPosition>240</yPosition>
+        <xCount>5</xCount>
+        <yCount>1</yCount>
+    </BlockData>
+
+    <BlockData>
+        <Type>Stone</Type>
+        <xPosition>1200</xPosition>
+        <yPosition>360</yPosition>
+        <xCount>8</xCount>
+        <yCount>1</yCount>
+    </BlockData>
+
+    <BlockData>
+        <Type>Stone</Type>
+        <xPosition>1260</xPosition>
+        <yPosition>330</yPosition>
+        <xCount>6</xCount>
+        <yCount>1</yCount>
+    </BlockData>
+
+    <BlockData>
+        <Type>Stone</Type>
+        <xPosition>1290</xPosition>
+        <yPosition>300</yPosition>
+        <xCount>4</xCount>
+        <yCount>1</yCount>
+    </BlockData>
+
+    <BlockData>
+        <Type>Stone</Type>
+        <xPosition>1320</xPosition>
+        <yPosition>270</yPosition>
+        <xCount>13</xCount>
+        <yCount>1</yCount>
+    </BlockData>
+
+    <BlockData>
+        <Type>Stone</Type>
+        <xPosition>2040</xPosition>
+        <yPosition>330</yPosition>
+        <xCount>4</xCount>
+        <yCount>2</yCount>
+    </BlockData>
+
+    <BlockData>
+        <Type>Stone</Type>
+        <xPosition>2100</xPosition>
+        <yPosition>270</yPosition>
+        <xCount>2</xCount>
+        <yCount>2</yCount>
+    </BlockData>
+
+    <BlockData>
+        <Type>Stone</Type>
+        <xPosition>2250</xPosition>
+        <yPosition>270</yPosition>
+        <xCount>4</xCount>
+        <yCount>1</yCount>
+    </BlockData>
+
+    <BlockData>
+        <Type>Stone</Type>
+        <xPosition>2550</xPosition>
+        <yPosition>360</yPosition>
+        <xCount>24</xCount>
+        <yCount>1</yCount>
+    </BlockData>
+
+    <BlockData>
+        <Type>Stone</Type>
+        <xPosition>2640</xPosition>
+        <yPosition>330</yPosition>
+        <xCount>21</xCount>
+        <yCount>1</yCount>
+    </BlockData>
+
+    <BlockData>
+        <Type>Stone</Type>
+        <xPosition>3150</xPosition>
+        <yPosition>270</yPosition>
+        <xCount>4</xCount>
+        <yCount>2</yCount>
+    </BlockData>
+
+    <BlockData>
+        <Type>Stone</Type>
+        <xPosition>3210</xPosition>
+        <yPosition>210</yPosition>
+        <xCount>2</xCount>
+        <yCount>2</yCount>
+    </BlockData>
+
+    <BlockData>
+        <Type>Wood</Type>
+        <xPosition>1500</xPosition>
+        <yPosition>360</yPosition>
+        <xCount>1</xCount>
+        <yCount>1</yCount>
+    </BlockData>
+
+    <BlockData>
+        <Type>Wood</Type>
+        <xPosition>3450</xPosition>
+        <yPosition>360</yPosition>
+        <xCount>1</xCount>
+        <yCount>1</yCount>
+    </BlockData>
+
+    <BlockData>
+        <Type>Stone</Type>
+        <xPosition>4020</xPosition>
+        <yPosition>0</yPosition>
+        <xCount>2</xCount>
+        <yCount>15</yCount>
+    </BlockData>
+
+<!-- Enemy Data -->
+    <EnemyData>
+        <Type>Soldier</Type>
+        <xPosition>450</xPosition>
+        <yPosition>350</yPosition>
+    </EnemyData>
+
+
+     <EnemyData>
+        <Type>Soldier</Type>
+        <xPosition>1080</xPosition>
+        <yPosition>200</yPosition>
+    </EnemyData>
+
+     <EnemyData>
+        <Type>Soldier</Type>
+        <xPosition>1080</xPosition>
+        <yPosition>350</yPosition>
+    </EnemyData>
+
+
+    <EnemyData>
+        <Type>Captain</Type>
+        <xPosition>1590</xPosition>
+        <yPosition>230</yPosition>
+    </EnemyData>
+
+    <EnemyData>
+        <Type>Captain</Type>
+        <xPosition>1890</xPosition>
+        <yPosition>350</yPosition>
+    </EnemyData>
+
+    <EnemyData>
+        <Type>Bunker</Type>
+        <xPosition>3090</xPosition>
+        <yPosition>280</yPosition>
+    </EnemyData>
+
+    <EnemyData>
+        <Type>Boss</Type>
+        <xPosition>3750</xPosition>
+        <yPosition>340</yPosition>
+    </EnemyData>
+
+
+    
+
+</Map>

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Background/Background1.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Block/StoneBlock.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Block/WoodenBox.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Boss/BossDead.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Boss/BossFireLeft.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Boss/BossFireRight.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Boss/BossIdleLeft.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Boss/BossIdleRight.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Bullet/LaserGunBullet.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Bullet/MachineGunBullet.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Bullet/PistolBullet.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Bunker/BunkerDead.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Bunker/BunkerIdleLeft.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Bunker/BunkerIdleRight.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Captain/CaptainDie.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Captain/CaptainFireLeft.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Captain/CaptainFireRight.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Captain/CaptainRunLeft.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Captain/CaptainRunRight.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/HealthBar/GreenHealthBar.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/HealthBar/RedHealthBar.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/HealthBar/YellowHealthBar.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Marco/MarcoCelebrate.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Marco/MarcoDead.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Marco/MarcoJumpLeft.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Marco/MarcoJumpRight.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Marco/MarcoLaserGunCrouchLeft.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Marco/MarcoLaserGunCrouchRight.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Marco/MarcoLaserGunIdleLeft.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Marco/MarcoLaserGunIdleRight.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Marco/MarcoLaserGunRunLeft.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Marco/MarcoLaserGunRunRight.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Marco/MarcoMachineGunCrouchLeft.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Marco/MarcoMachineGunCrouchRight.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Marco/MarcoMachineGunIdleLeft.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Marco/MarcoMachineGunIdleRight.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Marco/MarcoMachineGunRunLeft.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Marco/MarcoMachineGunRunRight.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Marco/MarcoPistolCrouchLeft.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Marco/MarcoPistolCrouchRight.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Marco/MarcoPistolIdleLeft.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Marco/MarcoPistolIdleRight.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Marco/MarcoPistolRunLeft.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Marco/MarcoPistolRunRight.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Soldier/SoldierDie.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Soldier/SoldierFireLeft.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Soldier/SoldierFireRight.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Soldier/SoldierRunLeft.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Soldier/SoldierRunRight.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Sound/Background.mp3</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Sound/Background2.mp3</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Sound/BossDie.wav</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Sound/BunkerDie.wav</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Sound/GeneralDie.wav</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Sound/GetHurt.wav</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Sound/GetLaser.wav</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Sound/GetMachine.wav</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Sound/Jump.wav</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Sound/LaserShoot.wav</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Sound/MachineAppear.wav</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Sound/MachineShoot.wav</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Sound/Pistolshoot.wav</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Sound/winthegame.wav</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/SpriteFont/Game.spritefont</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/SpriteFont/HUD.spritefont</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/SpriteFont/Name.spritefont</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Tarma/TarmaCelebrate.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Tarma/TarmaDead.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Tarma/TarmaJumpLeft.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Tarma/TarmaJumpRight.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Tarma/TarmaLaserGunCrouchLeft.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Tarma/TarmaLaserGunCrouchRight.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Tarma/TarmaLaserGunIdleLeft.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Tarma/TarmaLaserGunIdleRight.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Tarma/TarmaLaserGunRunLeft.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Tarma/TarmaLaserGunRunRight.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Tarma/TarmaMachineGunCrouchLeft.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Tarma/TarmaMachineGunCrouchRight.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Tarma/TarmaMachineGunIdleLeft.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Tarma/TarmaMachineGunIdleRight.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Tarma/TarmaMachineGunRunLeft.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Tarma/TarmaMachineGunRunRight.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Tarma/TarmaPistolCrouchLeft.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Tarma/TarmaPistolCrouchRight.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Tarma/TarmaPistolIdleLeft.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Tarma/TarmaPistolIdleRight.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Tarma/TarmaPistolRunLeft.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Tarma/TarmaPistolRunRight.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Weapon/LaserGun.png</File>
+    <File>C:/Users/Administrator.SC-201901031822/source/repos/ProgrammingApe_Sprint5/Sprint5/Content/Weapon/MachineGun.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
